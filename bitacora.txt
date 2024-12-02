@@ -9,4 +9,15 @@
 01 	clone https://github.com/latacita/testGit2024alexiasd678
 02 	edicion de bitacora.txt
 	add .
+08 	push origin SegundaRama	     Mientras que nos encontramos
+				     en la rama SegundaRama
+09 	checkout master
+17	checkout PrimeraRama
+18	merge SegundaRama	     Da conflictos que solucionamos
+	edito bitacora.txt
+	add .
+	commit -m "Solucionados conflictos"
+19	checkout master
+20	stash apply
+
 
