@@ -19,5 +19,12 @@
 	commit -m "Solucionados conflictos"
 19	checkout master
 20	stash apply
+26	tag "PasosExtras"
+27	checkout master
+28	checkout SegundaRama 
+	log 
+	checkout master
+	cherry-pick 3cea94eae83a97c902d73e2978126e141834394d
+
 
 
