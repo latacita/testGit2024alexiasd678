@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Setién Diez, Alexia                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01 	clone https://github.com/latacita/testGit2024alexiasd678
+02 	edicion de bitacora.txt
+	add .
+
