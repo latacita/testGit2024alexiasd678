@@ -9,4 +9,6 @@
 01 	clone https://github.com/latacita/testGit2024alexiasd678
 02 	edicion de bitacora.txt
 	add .
+04	branch PrimeraRama
+	checkout PrimeraRama
 
