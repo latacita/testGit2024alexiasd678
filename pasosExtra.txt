@@ -1,0 +1,10 @@
+ Paso   Acción                       Notas
+====== ============================ ================================
+22	push origin master	     Da conflicto
+	pull
+	edito bitacora.txt
+	add .
+	commit -m "Solucionado conflicto"
+	push origin master
+23	checkout SegundaRama
+24	creo archivo pasosExtra.txt
