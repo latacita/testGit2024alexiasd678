@@ -13,4 +13,10 @@
 	checkout PrimeraRama
 06	branch SegundaRama
 	checkout SegundaRama
-
+13	checkout SegundaRama
+14	Se fusionaría de manera recursiva con conflictos ya que se han 
+	producido cambios en la rama PrimeraRama que no estan contemplados 
+	en la rama SegundaRama 
+15 	Se fusionaría de manera recursiva con conflictos ya que se han 
+	producido cambios en la rama master que no estan contemplados 
+	en la rama PrimeraRama
